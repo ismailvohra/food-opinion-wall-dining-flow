@@ -83,5 +83,5 @@ At a high level, each installation requires:
 ## Acknowledgement
 This research was supported by Business Finland, under the Veturi program with the Dining Flow project (6547/31/2022). We acknowledge the Flavoria Research Platform, Antell and our colleagues at University of Turku for their continued support and contributions to the study. More about the Dining Flow project at University of Turku [here](https://sites.utu.fi/diningflow/).
 
-[![DOI](https://zenodo.org/badge/1316827406.svg)](https://doi.org/10.5281/zenodo.21696932)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21696933.svg)](https://doi.org/10.5281/zenodo.21696933)
 
